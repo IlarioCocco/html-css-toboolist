@@ -56,10 +56,11 @@ body {
     color: white;
     background-color: #3f96fa;
     border-radius: 5px;
-    border: none;
+    border-color: #3f96fa;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 12px;
     margin-left: 40px;
+    padding: 5px 16px;
 } 
 
 
@@ -68,7 +69,11 @@ body {
     color: gray;
     background-color: white;
     border-radius: 5px;
+    border-color: lightgrey;
     text-align: center;
+    margin-top: 12px;
+    margin-left: 2px;
+    padding: 4px 18px;
 }
 
 
