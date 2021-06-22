@@ -6,14 +6,29 @@
     box-sizing: border-box;
 }
 
-
+/* body colo bkg */
 body {
+    background-color: grey;
+}
+
+
+/* classe header style */
+.header {
+    padding: 10px;
     background-color: lightgrey;
 }
 
-
-.header{
+.logo {
 
 }
+
+.logo-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    size: 20px;
+}
+
+
+
 
 
