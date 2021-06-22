@@ -8,14 +8,14 @@
 
 /* body colo bkg */
 body {
-    background-color: grey;
+    background-color: rgb(233, 233, 233);
 }
 
 
 /* classe header style */
 .header {
     padding: 10px;
-    background-color: lightgrey;
+    background-color: rgb(243, 243, 243);
 }
 
 .logo {
@@ -45,7 +45,7 @@ body {
     width: 900px;
     margin: auto;
     border-radius: 5px;
-    margin-top: 2px;
+    margin-top: 1px;
 }
 
 
@@ -78,13 +78,18 @@ body {
 /* liste sezioni */
 ul {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 1em;
-    
+    margin-left: 3em;
+    line-height: 40px;
+    list-style-type: none;
+    color: rgb(64, 67, 72);
 }   
 
 
 h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left:  40px;
+    color: rgb(64, 67, 72);
+    line-height: 60px;
 }   
 
 
