@@ -30,26 +30,36 @@ body {
 
 
 /* container botton */
-.containerbotton {
+.containerButton {
     background-color: white;
-    height: 100px;
-    width: 700px;
+    height: 50px;
+    width: 900px;
     margin: auto;
     border-radius: 5px;
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 
 .container2 {
     background-color: white;
-    height: 400px;
-    width: 700px;
+    height: 600px;
+    width: 900px;
     margin: auto;
     border-radius: 5px;
     margin-top: 2px;
 }
 
 
+/* button */
+.buttonLeft {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+
+.buttonRight {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 
 
