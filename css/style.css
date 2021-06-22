@@ -1,6 +1,6 @@
 /* reset */
 
-*{
+* {
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
@@ -19,13 +19,32 @@ body {
 }
 
 .logo {
-
+    margin-left: 20px;
 }
 
 .logo-text{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: inline-block;
-    size: 20px;
+    vertical-align: 15px;
+}
+
+
+/* container botton */
+.containerbotton {
+    background-color: white;
+    height: 100px;
+    width: 700px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+
+.container2 {
+    background-color: white;
+    height: 100px;
+    width: 700px;
+    margin: auto;
+    border-radius: 5px;
 }
 
 
