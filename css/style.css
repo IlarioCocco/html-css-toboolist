@@ -81,7 +81,7 @@ ul {
     margin-left: 3em;
     line-height: 40px;
     list-style-type: none;
-    color: rgb(64, 67, 72);
+    color: rgb(115, 118, 121);
 }   
 
 
@@ -102,6 +102,32 @@ h3 {
     font-size: 11px;
 }
 
+.q1goals {
+    background-color: #946eeb;
+    color: white;
+    border-radius: 12px;
+    padding: 6px 12px;
+    margin-left: 5px;
+    font-size: 11px;
+}
+
+.recruiting {
+    background-color: #1bc2a6;
+    color: white;
+    border-radius: 12px;
+    padding: 6px 12px;
+    margin-left: 5px;
+    font-size: 11px;
+}
+
+.mobile {
+    background-color: #ebaa48;
+    color: white;
+    border-radius: 12px;
+    padding: 6px 12px;
+    margin-left: 5px;
+    font-size: 11px;
+}
 
 
 
