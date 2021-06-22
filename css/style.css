@@ -45,7 +45,7 @@ body {
     width: 900px;
     margin: auto;
     border-radius: 5px;
-    margin-top: 1px;
+    margin-top: 2px;
 }
 
 
@@ -90,7 +90,17 @@ h3 {
     margin-left:  40px;
     color: rgb(64, 67, 72);
     line-height: 60px;
-}   
+}  
+
+
+.editorial {
+    background-color: #3f96fa;
+    color: white;
+    border-radius: 12px;
+    padding: 6px 12px;
+    margin-left: 5px;
+    font-size: 11px;
+}
 
 
 
